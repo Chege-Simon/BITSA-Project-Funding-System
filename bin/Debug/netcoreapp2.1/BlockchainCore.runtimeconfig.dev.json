@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\geneva\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\geneva\\.nuget\\packages"
+    ]
+  }
+}

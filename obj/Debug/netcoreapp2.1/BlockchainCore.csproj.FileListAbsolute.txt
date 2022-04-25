@@ -1,0 +1,13 @@
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\bin\Debug\netcoreapp2.1\BlockchainCore.deps.json
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\bin\Debug\netcoreapp2.1\BlockchainCore.runtimeconfig.json
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\bin\Debug\netcoreapp2.1\BlockchainCore.runtimeconfig.dev.json
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\bin\Debug\netcoreapp2.1\BlockchainCore.dll
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\bin\Debug\netcoreapp2.1\BlockchainCore.pdb
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.csproj.AssemblyReference.cache
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.AssemblyInfoInputs.cache
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.AssemblyInfo.cs
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.csproj.CoreCompileInputs.cache
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.dll
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.pdb
+C:\Users\geneva\source\repos\Blockchain-P2P-Network\obj\Debug\netcoreapp2.1\BlockchainCore.genruntimeconfig.cache

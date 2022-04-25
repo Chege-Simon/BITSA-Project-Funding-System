@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.3.310801": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.props": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "WebSocketSharp-netstandard/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers/0.3.310801": {
+      "sha512": "+rBuFxPhhB05/TdNoqEBFMvYPPubRzUBBXzEYT2WvQB4O7v5S0lk8SYVdbc7uOpAKYJPR2vtAVOlAY3KBih0LA==",
+      "type": "package",
+      "path": "microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.3.310801",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.Common.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.dll",
+        "analyzers/dotnet/cs/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.CodeFixes.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.Common.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.dll",
+        "analyzers/dotnet/vb/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.CodeFixes.dll",
+        "build/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers.props",
+        "build/TypeMaps.props",
+        "build/WebTypeReplacements.typemap",
+        "icon.png",
+        "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.310801.nupkg.sha512",
+        "microsoft.dotnet.upgradeassistant.extensions.default.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "WebSocketSharp-netstandard/1.0.1": {
+      "sha512": "knoinAv31vbdxXdypnzN2MPX5hyntVLWceq6OdWRXkr9zzqp/RWbxSuLFGbkW8De1061URgNAN43BUTlgMx1CA==",
+      "type": "package",
+      "path": "websocketsharp-netstandard/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/websocket-sharp.dll",
+        "lib/net35/websocket-sharp.xml",
+        "lib/net45/websocket-sharp.dll",
+        "lib/net45/websocket-sharp.xml",
+        "lib/netstandard2.0/websocket-sharp.dll",
+        "lib/netstandard2.0/websocket-sharp.xml",
+        "websocketsharp-netstandard.1.0.1.nupkg.sha512",
+        "websocketsharp-netstandard.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers >= 0.3.310801",
+      "Newtonsoft.Json >= 11.0.2",
+      "WebSocketSharp-netstandard >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\geneva\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\geneva\\source\\repos\\Blockchain-P2P-Network\\BlockchainCore.csproj",
+      "projectName": "BlockchainCore",
+      "projectPath": "C:\\Users\\geneva\\source\\repos\\Blockchain-P2P-Network\\BlockchainCore.csproj",
+      "packagesPath": "C:\\Users\\geneva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\geneva\\source\\repos\\Blockchain-P2P-Network\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\geneva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[0.3.310801, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[11.0.2, )"
+          },
+          "WebSocketSharp-netstandard": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

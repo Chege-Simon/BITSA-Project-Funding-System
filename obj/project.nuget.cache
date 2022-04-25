@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftdnRWZGAXai+ABQ+wfpoE1acoc/PMaDDYAK/689kCAlHMO5blYPeqFpSp5M8UrDLeGXNeMHcuduQSBnCQo5wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geneva\\source\\repos\\Blockchain-P2P-Network\\BlockchainCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geneva\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.310801\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.310801.nupkg.sha512",
+    "C:\\Users\\geneva\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\geneva\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
